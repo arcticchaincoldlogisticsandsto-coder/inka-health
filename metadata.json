@@ -1,0 +1,10 @@
+{
+  "name": "Inka Health",
+  "description": "High-trust clinical referral and diagnostic platform in Tanzania, compliant with TMDA & PDPC. Features administrative, clinician, and receptionist portals with InkaPoints, facial recognition payment liveness, and a Groq-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
